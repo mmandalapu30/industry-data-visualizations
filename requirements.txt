@@ -1,0 +1,16 @@
+# Core Data Libraries
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.15.0
+
+# Interactive / Export
+kaleido>=0.2.1
+nbformat>=5.7.0
+
+# Optional: Jupyter support
+jupyterlab>=4.0.0
+ipywidgets>=8.0.0
